@@ -59,7 +59,7 @@ Smart agriculture solution using technology for crop monitoring and optimization
 ## 🤝 Connect With Me
 - 💼 LinkedIn: my-portfolio-gamma-topaz-27.vercel
 - 💻 GitHub:   https://github.com/Rakshita2005-lab
-- 🌐 Portfolio:  https://www.linkedin.com/in/rakshita-handage/ 
+- 🌐 Portfolio: https://your-portfolio-link.vercel.app
 
 ---
 
